@@ -1,6 +1,6 @@
 # Socker
 
-This project contains a simple socket-based client-server application. The client and server programs are written in C and utilize a common utility module.
+This project contains a simple socket-based client-server chat application. The client and server programs are written in C and utilize a common utility module.
 
 ## Getting Started
 
